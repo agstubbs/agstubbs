@@ -1,3 +1,7 @@
 * Welcome!
 
 Please wipe your feet. Don't forget to wash your hands.
+
+** Social Media
+
+I'm on <a rel="me" href="https://mastodon.online/@stubbsy">Mastodon</a>
