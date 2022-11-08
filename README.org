@@ -5,4 +5,4 @@ Please wipe your feet. Don't forget to wash your hands.
 ** Social Media
 
 #+ATTR_HTML: :rel me
-I'm on [["https://mastodon.online/@stubbsy"][Mastodon]].
+I'm on [[https://mastodon.online/@stubbsy][Mastodon]].
